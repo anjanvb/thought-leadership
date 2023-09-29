@@ -1,5 +1,5 @@
-# Anjanava Biswas
-## Bio
+# About Anjanava Biswas
+
 As a Sr. AI Specialist Solutions Architect at Amazon Web Services (AWS), Anjan leads and supports global initiatives in generative AI, computer vision, natural language processing, and applied AI. With over 16 years of experience in software engineering and cloud technology, they have designed, developed, and implemented enterprise-level, complex, and large-scale systems using AWS products and solutions.
 
 Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications at Professional and Specialty levels. They have a solid background in cloud transformation and domain architecture, and work closely with stakeholders, project managers, developers, and focus groups to align strategy, processes, and IT assets with business goals. They are a technologist, an avid supporter, a researcher, and a contributor to open source projects. They are passionate about building the future of cloud computing with AI.
