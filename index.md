@@ -6,7 +6,7 @@ As a Sr. AI Specialist Solutions Architect at Amazon Web Services (AWS), Anjan l
 
 Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications at Professional and Specialty levels. They have a solid background in cloud transformation and domain architecture, and work closely with stakeholders, project managers, developers, and focus groups to align strategy, processes, and IT assets with business goals. They are a technologist, an avid supporter, a researcher, and a contributor to open source projects. They are passionate about building the future of cloud computing with AI.
 
-## [Technical Articles](#technical-articles)
+## [Publications](#publications)
 
 [**Integrate Amazon SageMaker Data Wrangler with MLOps workflows**](https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/)
 
@@ -25,7 +25,9 @@ The article introduces IDP with AWS AI services for automating information extra
 This article delves into the latter phases of the IDP workflow with AWS AI services, emphasizing transitioning from manual processing or legacy OCR solutions to an IDP pipeline for more accurate, faster, and cost-effective information extraction.
 
 [**Process Mortgage Documents with Intelligent Document Processing using Amazon Textract and Amazon Comprehend**](https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/)
+
 ![mlops](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/ml-lifecycle.png)
+
 The article presents how IDP with AWS AI services automates and accelerates mortgage document processing, improving decision quality and reducing costs by efficiently handling the document-heavy workflow of the mortgage application process.
 
 [**Introducing One-Step Classification and Entity Recognition with Amazon Comprehend for Intelligent Document Processing**](https://aws.amazon.com/blogs/machine-learning/introducing-one-step-classification-and-entity-recognition-with-amazon-comprehend-for-intelligent-document-processing/)
@@ -76,7 +78,7 @@ Upload large number of files directly to Amazon S3 using AWS Amplify, with just 
 8. [Amazon EKS Arch Apache Solr](https://github.com/aws-samples/amazon-eks-arch-apache-solr)
 9. [LLM Safety Privacy](https://github.com/annjawn/llm-safety-privacy)
 
-## Public Speaking
+## [Public Speaking](#public-speaking)
 
 - AWS re:Invent 2022 Event Speaker - Intelligent Document Processing with AWS AI Services
 - AWS Global Summit 2022 (San Francisco) Event Speaker - Intelligent Document Processing with AWS AI Services
