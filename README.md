@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 ## About Anjanava Biswas
 
 As a Sr. AI Specialist Solutions Architect at Amazon Web Services (AWS), Anjan leads and supports global initiatives in generative AI, computer vision, natural language processing, and applied AI. With over 16 years of experience in software engineering and cloud technology, they have designed, developed, and implemented enterprise-level, complex, and large-scale systems using AWS products and solutions.
