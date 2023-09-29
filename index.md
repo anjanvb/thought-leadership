@@ -24,7 +24,7 @@ The article introduces IDP with AWS AI services for automating information extra
 
 This article delves into the latter phases of the IDP workflow with AWS AI services, emphasizing transitioning from manual processing or legacy OCR solutions to an IDP pipeline for more accurate, faster, and cost-effective information extraction.
 
-[**Process Mortgage Documents with Intelligent Document Processing using Amazon Textract and Amazon Comprehend]**(https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/)
+[**Process Mortgage Documents with Intelligent Document Processing using Amazon Textract and Amazon Comprehend**](https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/)
 
 The article presents how IDP with AWS AI services automates and accelerates mortgage document processing, improving decision quality and reducing costs by efficiently handling the document-heavy workflow of the mortgage application process.
 
