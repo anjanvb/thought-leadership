@@ -102,6 +102,8 @@ Upload large number of files directly to Amazon S3 using AWS Amplify, with just 
 
 ## [Open Source Contributions](#open-source-contributions)
 
+If you've got a bright idea about improving any of these open-source repositories, we welcome forks and pull requests. 👍
+
 - [AWS AI IDP Human-in-Loop](https://github.com/aws-samples/aws-ai-idp-human-in-loop)
 - [AWS AI PHI Deidentification](https://github.com/aws-samples/aws-ai-phi-deidentification)
 - [Amazon Textract IDP CDK Constructs](https://github.com/aws-samples/amazon-textract-idp-cdk-constructs)
@@ -120,3 +122,9 @@ Upload large number of files directly to Amazon S3 using AWS Amplify, with just 
 - [AWS AI/ML Mega Modernization Week](https://pages.awscloud.com/NAMER-event-OE-ModWeekaiml-2022-reg-event.html) - Event Speaker - [Prevent online fraud while ensuring a frictionless customer experience](https://amer.resources.awscloud.com/aws-modernization-week-ai-ml/prevent-online-fraud-and-ensure-smooth-customer-experience)(video)
 - [DataScience on AWS](https://www.meetup.com/generative-ai-on-aws/events/289912372) - [Intelligent Document Processing with AWS AI Services and Generative AI](https://www.youtube.com/watch?v=lA0ICpoj1jM)(video)
 - Guest Speaker at [“ML On AWS“ event hosted by Data Science Club Univ. of Texas](https://www.linkedin.com/posts/av-amish-vyas_datascience-machinelearning-aws-activity-6972003782268248064-SsOr) - Machine Learning Lifecycle
+
+
+## Learn about Intelligent Document Processing (IDP)
+
+![idp-arch-lab](https://static.us-east-1.prod.workshops.aws/public/36a4e11b-2b2b-450c-91c2-b16c5e0678c0/static/img/moduleimages/idp_arc_2.png)
+Learn about Intelligent Document Processing with AWS AI services where I break down all the things you need to know about AWS AI Services such as Amazon Textract, and Amazon Comprehend. I dive deeper into using generative AI using several Large Language Models to perform tasks such as document summarization, in-context document Q&A, self-querying tables, data format standardization, spell/grammar corrections of hand written or digital documents and more. Click [here](https://catalog.workshops.aws/intelligent-document-processing/en-US) to visit the workshop and take the "[Self-paced](https://catalog.workshops.aws/intelligent-document-processing/en-US/01-introduction/03-self-paced)" lab.
