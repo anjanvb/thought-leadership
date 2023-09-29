@@ -9,51 +9,49 @@ Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications
 ## [Publications](#publications)
 
 [**Integrate Amazon SageMaker Data Wrangler with MLOps workflows**](https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/)
-
+![mlops](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/ml-lifecycle.png)
 This article discusses the integration of Amazon SageMaker Data Wrangler with MLOps workflows to automate the end-to-end ML lifecycle, highlighting the simplification of data preparation processes for data scientists and ML engineers.
-
+---
 [**Prevent Fake Account Sign-ups in Real Time with AI using Amazon Fraud Detector**](https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/)
-
+![afd](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/28/ML-6059-figure-1.png)
 The piece elaborates on utilizing Amazon Fraud Detector in real-time alongside Amazon Cognito custom authentication workflows to thwart fake account sign-ups, emphasizing early detection and prevention of fraudulent account creations as a robust defense against fraud and platform abuse.
-
+---
 [**Part 1: Intelligent Document Processing with AWS AI Services**](https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services/)
-
+![idp-e2e](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/idp-phases.png)
 The article introduces IDP with AWS AI services for automating information extraction from various document types, aiming to replace manual, error-prone document processing with a faster, more accurate automated system, thus reducing overall costs and facilitating better business decisions.
-
+---
 [**Part 2: Intelligent Document Processing with AWS AI Services**](https://aws.amazon.com/blogs/machine-learning/part-2-intelligent-document-processing-with-aws-ai-services/)
 
 This article delves into the latter phases of the IDP workflow with AWS AI services, emphasizing transitioning from manual processing or legacy OCR solutions to an IDP pipeline for more accurate, faster, and cost-effective information extraction.
-
+---
 [**Process Mortgage Documents with Intelligent Document Processing using Amazon Textract and Amazon Comprehend**](https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/)
-
-![mlops](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/ml-lifecycle.png)
-
+![idp-mortgage](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/Arch-Diag-Mortgage.jpg)
 The article presents how IDP with AWS AI services automates and accelerates mortgage document processing, improving decision quality and reducing costs by efficiently handling the document-heavy workflow of the mortgage application process.
-
+---
 [**Introducing One-Step Classification and Entity Recognition with Amazon Comprehend for Intelligent Document Processing**](https://aws.amazon.com/blogs/machine-learning/introducing-one-step-classification-and-entity-recognition-with-amazon-comprehend-for-intelligent-document-processing/)
-
+![one-step](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2022/11/28/image001-12.png)
 This article introduces a one-step document classification and real-time analysis feature in Amazon Comprehend for IDP, simplifying the direct analysis of semi-structured documents in native formats without the need for pre-processing to extract text.
-
+---
 [**Introducing Self-Service Quota Management and Higher Default Service Quotas for Amazon Textract**](https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/)
 
 The article announces self-service quota management for Amazon Textract via the AWS Service Quotas console, alongside higher default service quotas in select AWS Regions, facilitating better scaling of Amazon Textract usage and quicker processing of quota increase requests.
-
+---
 [**Announcing Enhanced Table Extractions with Amazon Textract**](https://aws.amazon.com/blogs/machine-learning/announcing-enhanced-table-extractions-with-amazon-textract/)
 
 The article announces improvements in Amazon Textract's Tables feature for easier extraction of information from tabular structures in documents, auto-detecting titles, footers, section titles, and summary rows to simplify tabular data extraction.
-
+---
 [**Introducing Amazon Textract Bulk Document Uploader for Enhanced Evaluation and Analysis**](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis/)
 
 The article introduces the Bulk Document Uploader feature in Amazon Textract, allowing for effortless processing and evaluation of up to 150 documents at once without coding, helping users quickly gauge Amazon Textract's performance on their documents.
-
+---
 [**Deploying and Scaling Apache Solr on Kubernetes**](https://aws.amazon.com/blogs/opensource/deploying-and-scaling-apache-solr-on-kubernetes/)
-
+![solr](https://awsopensourceblog.s3.us-east-2.amazonaws.com/assets/anjanavb_apache-solr-kubernetes/anjanavb_apache-solr-kubernetes_f1.png)
 The article outlines deploying and scaling Apache Solr on Kubernetes using Amazon EKS for an enterprise-grade search platform, mitigating challenges associated with distributed deployment of Solr, making it highly available, scalable, and fault-tolerant with lower maintenance.
-
+---
 [**Balancing Innovation with Safety & Privacy in the Era of Large Language Models (LLM)**](https://towardsdatascience.com/balancing-innovation-with-safety-privacy-in-the-era-of-large-language-models-llm-a63570e4a24a)
   
 A Guide to Implement Safety, and Privacy Mechanisms for your Generative AI applications
-
+---
 [**NodeJS Runtime Environment with AWS Lambda Layers**](https://medium.com/@anjanava.biswas/nodejs-runtime-environment-with-aws-lambda-layers-f3914613e20e)
 
 Build NodeJS applications with AWS Lambda Serverless functions using Lambda Layers to manage dependencies.
