@@ -70,8 +70,8 @@ The article outlines deploying and scaling Apache Solr on Kubernetes using Amazo
 ---
 
 [**Balancing Innovation with Safety & Privacy in the Era of Large Language Models (LLM)**](https://towardsdatascience.com/balancing-innovation-with-safety-privacy-in-the-era-of-large-language-models-llm-a63570e4a24a)
-  
-A Guide to Implement Safety, and Privacy Mechanisms for your Generative AI applications
+![tr-safety-llm](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*JtxXR6v4VOp0Vx_8s2hYdA.png)
+A Guide to Implement Safety, and Privacy Mechanisms for your Generative AI applications.
 
 ---
 
@@ -90,6 +90,15 @@ A step-by-step guide on how to integrate OneLogin Identity Provider with Amazon 
 [**Uploading Files to AWS S3 from React App using AWS Amplify**](https://medium.com/@anjanava.biswas/uploading-files-to-aws-s3-from-react-app-using-aws-amplify-b286dbad2dd7)
 
 Upload large number of files directly to Amazon S3 using AWS Amplify, with just a few lines of code.
+
+---
+**Classify documents with Amazon Comprehend**
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=QsqHvDPRSSQ">
+         <img src="https://img.youtube.com/vi/QsqHvDPRSSQ/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 ## [Open Source Contributions](#open-source-contributions)
 
