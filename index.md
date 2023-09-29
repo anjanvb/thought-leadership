@@ -45,6 +45,18 @@ This article introduces a one-step document classification and real-time analysi
 
 ---
 
+[**Balancing Innovation with Safety & Privacy in the Era of Large Language Models (LLM)**](https://towardsdatascience.com/balancing-innovation-with-safety-privacy-in-the-era-of-large-language-models-llm-a63570e4a24a)
+![tr-safety-llm](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*JtxXR6v4VOp0Vx_8s2hYdA.png)
+A Guide to Implement Safety, and Privacy Mechanisms for your Generative AI applications.
+
+---
+
+[**Deploying and Scaling Apache Solr on Kubernetes**](https://aws.amazon.com/blogs/opensource/deploying-and-scaling-apache-solr-on-kubernetes/)
+![solr](https://awsopensourceblog.s3.us-east-2.amazonaws.com/assets/anjanavb_apache-solr-kubernetes/anjanavb_apache-solr-kubernetes_f1.png)
+The article outlines deploying and scaling Apache Solr on Kubernetes using Amazon EKS for an enterprise-grade search platform, mitigating challenges associated with distributed deployment of Solr, making it highly available, scalable, and fault-tolerant with lower maintenance.
+
+---
+
 [**Introducing Self-Service Quota Management and Higher Default Service Quotas for Amazon Textract**](https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/)
 
 The article announces self-service quota management for Amazon Textract via the AWS Service Quotas console, alongside higher default service quotas in select AWS Regions, facilitating better scaling of Amazon Textract usage and quicker processing of quota increase requests.
@@ -60,18 +72,6 @@ The article announces improvements in Amazon Textract's Tables feature for easie
 [**Introducing Amazon Textract Bulk Document Uploader for Enhanced Evaluation and Analysis**](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis/)
 
 The article introduces the Bulk Document Uploader feature in Amazon Textract, allowing for effortless processing and evaluation of up to 150 documents at once without coding, helping users quickly gauge Amazon Textract's performance on their documents.
-
----
-
-[**Deploying and Scaling Apache Solr on Kubernetes**](https://aws.amazon.com/blogs/opensource/deploying-and-scaling-apache-solr-on-kubernetes/)
-![solr](https://awsopensourceblog.s3.us-east-2.amazonaws.com/assets/anjanavb_apache-solr-kubernetes/anjanavb_apache-solr-kubernetes_f1.png)
-The article outlines deploying and scaling Apache Solr on Kubernetes using Amazon EKS for an enterprise-grade search platform, mitigating challenges associated with distributed deployment of Solr, making it highly available, scalable, and fault-tolerant with lower maintenance.
-
----
-
-[**Balancing Innovation with Safety & Privacy in the Era of Large Language Models (LLM)**](https://towardsdatascience.com/balancing-innovation-with-safety-privacy-in-the-era-of-large-language-models-llm-a63570e4a24a)
-![tr-safety-llm](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*JtxXR6v4VOp0Vx_8s2hYdA.png)
-A Guide to Implement Safety, and Privacy Mechanisms for your Generative AI applications.
 
 ---
 
@@ -92,7 +92,7 @@ A step-by-step guide on how to integrate OneLogin Identity Provider with Amazon 
 Upload large number of files directly to Amazon S3 using AWS Amplify, with just a few lines of code.
 
 ---
-**Classify documents with Amazon Comprehend**
+**Classify documents with Amazon Comprehend [video]**
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=QsqHvDPRSSQ">
@@ -102,21 +102,21 @@ Upload large number of files directly to Amazon S3 using AWS Amplify, with just 
 
 ## [Open Source Contributions](#open-source-contributions)
 
-1. [AWS AI IDP Human-in-Loop](https://github.com/aws-samples/aws-ai-idp-human-in-loop)
-2. [AWS AI PHI Deidentification](https://github.com/aws-samples/aws-ai-phi-deidentification)
-3. [Amazon Textract IDP CDK Constructs](https://github.com/aws-samples/amazon-textract-idp-cdk-constructs)
-4. [Langchain Experimental Comprehend Moderation](https://api.python.langchain.com/en/latest/experimental_api_reference.html#module-langchain_experimental.comprehend_moderation)
-5. [Amazon Fraud Detector End-to-End](https://github.com/aws-samples/amazon-fraud-detector-end-to-end)
-6. [Amazon Fraud Detector with Cognito](https://github.com/aws-samples/amazon-fraud-detector-with-cognito)
-7. [SM Data Wrangler MLOps Workflows](https://github.com/aws-samples/sm-data-wrangler-mlops-workflows)
-8. [Amazon EKS Arch Apache Solr](https://github.com/aws-samples/amazon-eks-arch-apache-solr)
-9. [LLM Safety Privacy](https://github.com/annjawn/llm-safety-privacy)
+- [AWS AI IDP Human-in-Loop](https://github.com/aws-samples/aws-ai-idp-human-in-loop)
+- [AWS AI PHI Deidentification](https://github.com/aws-samples/aws-ai-phi-deidentification)
+- [Amazon Textract IDP CDK Constructs](https://github.com/aws-samples/amazon-textract-idp-cdk-constructs)
+- [Langchain Experimental Comprehend Moderation](https://api.python.langchain.com/en/latest/experimental_api_reference.html#module-langchain_experimental.comprehend_moderation)
+- [Amazon Fraud Detector End-to-End](https://github.com/aws-samples/amazon-fraud-detector-end-to-end)
+- [Amazon Fraud Detector with Cognito](https://github.com/aws-samples/amazon-fraud-detector-with-cognito)
+- [SM Data Wrangler MLOps Workflows](https://github.com/aws-samples/sm-data-wrangler-mlops-workflows)
+- [Amazon EKS Arch Apache Solr](https://github.com/aws-samples/amazon-eks-arch-apache-solr)
+- [LLM Safety Privacy](https://github.com/annjawn/llm-safety-privacy)
 
 ## [Public Speaking](#public-speaking)
 
-- AWS re:Invent 2022 Event Speaker - Intelligent Document Processing with AWS AI Services
-- AWS Global Summit 2022 (San Francisco) Event Speaker - Intelligent Document Processing with AWS AI Services
-- AWS AI/ML Solution Days (Palo Alto) Event Speaker - Enhancing Intelligent Document Processing with generative AI 
-- AWS AI/ML Mega Modernization Week - Event Speaker - Prevent online fraud while ensuring a frictionless customer experience
-- DataScience on AWS - Intelligent Document Processing with AWS AI Services and Generative AI
-- Guest Speaker at “ML On AWS“ event hosted by Data Science Club Univ. of Texas Dallas Session Speaker for Machine Learning Lifecycle
+- [AWS re:Invent 2022](https://www.aboutamazon.com/news/aws/aws-reinvent-2022) ChalkTalk Speaker - [Using AI to process healthcare data with intelligent document processing](https://d1.awsstatic.com/events/Summits/reinvent2022/AIM334_Using-AI-to-process-healthcare-data-with-intelligent-document-processing.pdf)
+- [AWS Global Summit 2022 (San Francisco)](https://aws.amazon.com/events/summits/san-francisco/) ChalkTalk Speaker - [Intelligent Document Processing in lending and insurance industries](https://d1.awsstatic.com/events/Summits/amer2021/maysummitonline/amer-sf-summit-2022/Intelligent_document_processing_in_lending_and_insurance_industries_AIM209.pdf)
+- [AWS AI/ML Solution Days](https://amer.resources.awscloud.com/palo-alto-ai-ml-solution-days-unlock-a-world-of-creativity-with-generative-ai) (Palo Alto) Event Speaker - [Enhancing Intelligent Document Processing (IDP) workloads with generative AI](https://amer.resources.awscloud.com/palo-alto-ai-ml-solution-days-unlock-a-world-of-creativity-with-generative-ai/enhancing-idp-workloads-with-generative-ai)
+- [AWS AI/ML Mega Modernization Week](https://pages.awscloud.com/NAMER-event-OE-ModWeekaiml-2022-reg-event.html) - Event Speaker - [Prevent online fraud while ensuring a frictionless customer experience](https://amer.resources.awscloud.com/aws-modernization-week-ai-ml/prevent-online-fraud-and-ensure-smooth-customer-experience)(video)
+- [DataScience on AWS](https://www.meetup.com/generative-ai-on-aws/events/289912372) - [Intelligent Document Processing with AWS AI Services and Generative AI](https://www.youtube.com/watch?v=lA0ICpoj1jM)(video)
+- Guest Speaker at [“ML On AWS“ event hosted by Data Science Club Univ. of Texas](https://www.linkedin.com/posts/av-amish-vyas_datascience-machinelearning-aws-activity-6972003782268248064-SsOr) - Machine Learning Lifecycle
