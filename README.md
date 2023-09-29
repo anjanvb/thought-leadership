@@ -6,44 +6,61 @@ Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications
 
 ## [Technical Articles](#technical-articles)
 
-[Integrate Amazon SageMaker Data Wrangler with MLOps workflows](https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/)
+[**Integrate Amazon SageMaker Data Wrangler with MLOps workflows**](https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/)
+
 This article discusses the integration of Amazon SageMaker Data Wrangler with MLOps workflows to automate the end-to-end ML lifecycle, highlighting the simplification of data preparation processes for data scientists and ML engineers.
 
-[Prevent Fake Account Sign-ups in Real Time with AI using Amazon Fraud Detector](https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/)
+[**Prevent Fake Account Sign-ups in Real Time with AI using Amazon Fraud Detector**](https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/)
+
 The piece elaborates on utilizing Amazon Fraud Detector in real-time alongside Amazon Cognito custom authentication workflows to thwart fake account sign-ups, emphasizing early detection and prevention of fraudulent account creations as a robust defense against fraud and platform abuse.
 
-1. [Part 1: Intelligent Document Processing with AWS AI Services](https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services/)
-   - The article introduces IDP with AWS AI services for automating information extraction from various document types, aiming to replace manual, error-prone document processing with a faster, more accurate automated system, thus reducing overall costs and facilitating better business decisions.
+[**Part 1: Intelligent Document Processing with AWS AI Services**](https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services/)
 
-2. [Part 2: Intelligent Document Processing with AWS AI Services](https://aws.amazon.com/blogs/machine-learning/part-2-intelligent-document-processing-with-aws-ai-services/)
-   - This article delves into the latter phases of the IDP workflow with AWS AI services, emphasizing transitioning from manual processing or legacy OCR solutions to an IDP pipeline for more accurate, faster, and cost-effective information extraction.
+The article introduces IDP with AWS AI services for automating information extraction from various document types, aiming to replace manual, error-prone document processing with a faster, more accurate automated system, thus reducing overall costs and facilitating better business decisions.
 
-3. [Process Mortgage Documents with Intelligent Document Processing using Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/)
-   - The article presents how IDP with AWS AI services automates and accelerates mortgage document processing, improving decision quality and reducing costs by efficiently handling the document-heavy workflow of the mortgage application process.
+[**Part 2: Intelligent Document Processing with AWS AI Services**](https://aws.amazon.com/blogs/machine-learning/part-2-intelligent-document-processing-with-aws-ai-services/)
 
-4. [Introducing One-Step Classification and Entity Recognition with Amazon Comprehend for Intelligent Document Processing](https://aws.amazon.com/blogs/machine-learning/introducing-one-step-classification-and-entity-recognition-with-amazon-comprehend-for-intelligent-document-processing/)
-   - This article introduces a one-step document classification and real-time analysis feature in Amazon Comprehend for IDP, simplifying the direct analysis of semi-structured documents in native formats without the need for pre-processing to extract text.
+This article delves into the latter phases of the IDP workflow with AWS AI services, emphasizing transitioning from manual processing or legacy OCR solutions to an IDP pipeline for more accurate, faster, and cost-effective information extraction.
 
-5. [Introducing Self-Service Quota Management and Higher Default Service Quotas for Amazon Textract](https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/)
-   - The article announces self-service quota management for Amazon Textract via the AWS Service Quotas console, alongside higher default service quotas in select AWS Regions, facilitating better scaling of Amazon Textract usage and quicker processing of quota increase requests.
+[**Process Mortgage Documents with Intelligent Document Processing using Amazon Textract and Amazon Comprehend]**(https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/)
 
-6. [Announcing Enhanced Table Extractions with Amazon Textract](https://aws.amazon.com/blogs/machine-learning/announcing-enhanced-table-extractions-with-amazon-textract/)
-   - The article announces improvements in Amazon Textract's Tables feature for easier extraction of information from tabular structures in documents, auto-detecting titles, footers, section titles, and summary rows to simplify tabular data extraction.
+The article presents how IDP with AWS AI services automates and accelerates mortgage document processing, improving decision quality and reducing costs by efficiently handling the document-heavy workflow of the mortgage application process.
 
-7. [Introducing Amazon Textract Bulk Document Uploader for Enhanced Evaluation and Analysis](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis/)
-   - The article introduces the Bulk Document Uploader feature in Amazon Textract, allowing for effortless processing and evaluation of up to 150 documents at once without coding, helping users quickly gauge Amazon Textract's performance on their documents.
+[**Introducing One-Step Classification and Entity Recognition with Amazon Comprehend for Intelligent Document Processing**](https://aws.amazon.com/blogs/machine-learning/introducing-one-step-classification-and-entity-recognition-with-amazon-comprehend-for-intelligent-document-processing/)
 
-8.  [Deploying and Scaling Apache Solr on Kubernetes](https://aws.amazon.com/blogs/opensource/deploying-and-scaling-apache-solr-on-kubernetes/)
-    - The article outlines deploying and scaling Apache Solr on Kubernetes using Amazon EKS for an enterprise-grade search platform, mitigating challenges associated with distributed deployment of Solr, making it highly available, scalable, and fault-tolerant with lower maintenance.
+This article introduces a one-step document classification and real-time analysis feature in Amazon Comprehend for IDP, simplifying the direct analysis of semi-structured documents in native formats without the need for pre-processing to extract text.
 
-9.  [Balancing Innovation with Safety & Privacy in the Era of Large Language Models (LLM)](https://towardsdatascience.com/balancing-innovation-with-safety-privacy-in-the-era-of-large-language-models-llm-a63570e4a24a)
-    - The AI era has ushered in Large Language Models (aka LLMs) to the technological forefront, which has been much of the talk in 2023, and is likely to remain as such for many years to come. LLMs are the AI models that are the power house behind things like ChatGPT. These AI models, fueled by vast amounts of data and computational prowess, have unlocked remarkable capabilities, from human-like text generating to assisting with natural language understanding (NLU) tasks. However, as with any groundbreaking innovations, the rise of LLMs brings forth a critical question — “How do we balance this pursuit of technological advancement with the imperative of safety and privacy?”. This is not a mere philosophical question, but a challenge that requires proactive and thoughtful action.
+[**Introducing Self-Service Quota Management and Higher Default Service Quotas for Amazon Textract**](https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/)
 
-10. [NodeJS Runtime Environment with AWS Lambda Layers](https://medium.com/@anjanava.biswas/nodejs-runtime-environment-with-aws-lambda-layers-f3914613e20e)
+The article announces self-service quota management for Amazon Textract via the AWS Service Quotas console, alongside higher default service quotas in select AWS Regions, facilitating better scaling of Amazon Textract usage and quicker processing of quota increase requests.
+
+[**Announcing Enhanced Table Extractions with Amazon Textract**](https://aws.amazon.com/blogs/machine-learning/announcing-enhanced-table-extractions-with-amazon-textract/)
+
+The article announces improvements in Amazon Textract's Tables feature for easier extraction of information from tabular structures in documents, auto-detecting titles, footers, section titles, and summary rows to simplify tabular data extraction.
+
+[**Introducing Amazon Textract Bulk Document Uploader for Enhanced Evaluation and Analysis**](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis/)
+
+The article introduces the Bulk Document Uploader feature in Amazon Textract, allowing for effortless processing and evaluation of up to 150 documents at once without coding, helping users quickly gauge Amazon Textract's performance on their documents.
+
+[**Deploying and Scaling Apache Solr on Kubernetes**](https://aws.amazon.com/blogs/opensource/deploying-and-scaling-apache-solr-on-kubernetes/)
+
+The article outlines deploying and scaling Apache Solr on Kubernetes using Amazon EKS for an enterprise-grade search platform, mitigating challenges associated with distributed deployment of Solr, making it highly available, scalable, and fault-tolerant with lower maintenance.
+
+[**Balancing Innovation with Safety & Privacy in the Era of Large Language Models (LLM)**](https://towardsdatascience.com/balancing-innovation-with-safety-privacy-in-the-era-of-large-language-models-llm-a63570e4a24a)
+  
+A Guide to Implement Safety, and Privacy Mechanisms for your Generative AI applications
+
+[**NodeJS Runtime Environment with AWS Lambda Layers**](https://medium.com/@anjanava.biswas/nodejs-runtime-environment-with-aws-lambda-layers-f3914613e20e)
+
+Build NodeJS applications with AWS Lambda Serverless functions using Lambda Layers to manage dependencies.
     
-11. [AWS Cognito User Pool Federation with OneLogin IDP](https://medium.com/@anjanava.biswas/aws-cognito-user-pool-federation-with-onelogin-idp-4b1962127b0b)
+[**AWS Cognito User Pool Federation with OneLogin IDP**](https://medium.com/@anjanava.biswas/aws-cognito-user-pool-federation-with-onelogin-idp-4b1962127b0b)
+
+A step-by-step guide on how to integrate OneLogin Identity Provider with Amazon Cognito
     
-12. [Uploading Files to AWS S3 from React App using AWS Amplify](https://medium.com/@anjanava.biswas/uploading-files-to-aws-s3-from-react-app-using-aws-amplify-b286dbad2dd7)
+[Uploading Files to AWS S3 from React App using AWS Amplify](https://medium.com/@anjanava.biswas/uploading-files-to-aws-s3-from-react-app-using-aws-amplify-b286dbad2dd7)
+
+Upload large number of files directly to Amazon S3 using AWS Amplify, with just a few lines of code.
 
 ## [Open Source Contributions](#open-source-contributions)
 
