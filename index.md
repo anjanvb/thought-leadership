@@ -6,6 +6,15 @@ As a Sr. AI Specialist Solutions Architect at Amazon Web Services (AWS), Anjan l
 
 Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications at Professional and Specialty levels. They have a solid background in cloud transformation and domain architecture, and work closely with stakeholders, project managers, developers, and focus groups to align strategy, processes, and IT assets with business goals. They are a technologist, an avid supporter, a researcher, and a contributor to open source projects. They are passionate about building the future of cloud computing with AI.
 
+# Table of contents
+
+- [Table of contents](#table-of-contents)
+- [Thought Leadership](#thought-leadership)
+  - [Publications](#publications)
+  - [Open-source Contributions](#open-source-contributions)
+  - [Public Speaking](#public-speaking)
+  - [Learn about Intelligent Document Processing (IDP)](#learn-about-intelligent-document-processing-idp)
+
 # Thought Leadership
 ## [Publications](#publications)
 
@@ -100,7 +109,7 @@ Upload large number of files directly to Amazon S3 using AWS Amplify, with just 
       </a>
 </div>
 
-## [Open Source Contributions](#open-source-contributions)
+## [Open-source Contributions](#open-source-contributions)
 
 If you've got a bright idea about improving any of these open-source repositories, we welcome forks and pull requests. 👍
 
