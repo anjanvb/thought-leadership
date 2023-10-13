@@ -56,6 +56,14 @@ This article introduces a one-step document classification and real-time analysi
 [**Balancing Innovation with Safety & Privacy in the Era of Large Language Models (LLM)**](https://towardsdatascience.com/balancing-innovation-with-safety-privacy-in-the-era-of-large-language-models-llm-a63570e4a24a)
 ![tr-safety-llm](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*JtxXR6v4VOp0Vx_8s2hYdA.png)
 A Guide to Implement Safety, and Privacy Mechanisms for your Generative AI applications.
+_Publisher: [towardsdatascience.com](https://www.towardsdatascience.com)_
+
+---
+
+[**Intelligent Document Processing with AWS AI Services and Amazon Bedrock**](https://opendatascience.com/intelligent-document-processing-with-aws-ai-services-and-amazon-bedrock/)
+![bedrock-odsc](https://opendatascience.com/wp-content/uploads/2023/10/AB4.png)
+Implement Intelligent Document Processing (IDP) with AWS AI and generative AI with Amazon Bedrock.
+_Publisher: [Open Data Science](https://opendatascience.com/)_
 
 ---
 
