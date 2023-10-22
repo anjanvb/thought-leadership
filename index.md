@@ -12,7 +12,11 @@ Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications
   - [Publications](#publications)
   - [Open-source Contributions](#open-source-contributions)
   - [Public Speaking](#public-speaking)
-  - [Learn about Intelligent Document Processing (IDP)](#learn-about-intelligent-document-processing-idp)
+  - [Learn about AWS AI Services Intelligent Document Processing (IDP)](#learn-about-aws-ai-services-intelligent-document-processing-idp)
+    - [Intelligent Document Processing Workshop](#intelligent-document-processing-workshop)
+    - [Learn About Amazon Textract](#learn-about-amazon-textract)
+    - [Learn About Amazon Comprehend](#learn-about-amazon-comprehend)
+    - [AWS Machine Learning University](#aws-machine-learning-university)
 
 # Thought Leadership
 ## [Publications](#publications)
@@ -140,9 +144,23 @@ If you've got a bright idea about improving any of these open-source repositorie
 - Guest Speaker at [“ML On AWS“ event hosted by Data Science Club Univ. of Texas](https://www.linkedin.com/posts/av-amish-vyas_datascience-machinelearning-aws-activity-6972003782268248064-SsOr) - Machine Learning Lifecycle
 
 
-## Learn about Intelligent Document Processing (IDP)
+## Learn about AWS AI Services Intelligent Document Processing (IDP)
+
+### Intelligent Document Processing Workshop
 
 ![idp-arch-lab](https://static.us-east-1.prod.workshops.aws/public/36a4e11b-2b2b-450c-91c2-b16c5e0678c0/static/img/moduleimages/idp_arc_2.png)
 Learn about Intelligent Document Processing with AWS AI services where I break down all the things you need to know about AWS AI Services such as [Amazon Textract](https://aws.amazon.com/textract/), and [Amazon Comprehend](https://aws.amazon.com/comprehend/). I dive deeper into using generative AI using several Large Language Models to perform tasks such as document summarization, in-context document Q&A, self-querying tables, data format standardization, spell/grammar corrections of hand written or digital documents and more. 
 
 Click 👉🏽 [**here**](https://catalog.workshops.aws/intelligent-document-processing/en-US) to visit the workshop, and take the "[Self-paced](https://catalog.workshops.aws/intelligent-document-processing/en-US/01-introduction/03-self-paced)" lab.
+
+### Learn About Amazon Textract
+
+Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, layout elements, and data from scanned documents. Take a free course on AWS Skill Builder on [Getting started with Amazon Textract](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14791/getting-started-with-amazon-textract)
+
+### Learn About Amazon Comprehend
+
+Amazon Comprehend uses natural language processing (NLP) to extract insights about the content of documents. Take a free course on AWS Skill Builder on [Getting started with Amazon Comprehend](https://explore.skillbuilder.aws/learn/course/external/view/elearning/15392/getting-started-with-amazon-comprehend)
+
+### AWS Machine Learning University
+
+Machine Learning University (MLU) provides anybody, anywhere, at any time access to the same machine learning courses used to train Amazon’s own developers on machine learning. Head over to [AWS Machine Learning University](https://aws.amazon.com/machine-learning/mlu/) and start learning today, or register for an online or in-person instructor-led class.
