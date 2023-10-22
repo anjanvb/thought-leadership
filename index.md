@@ -108,7 +108,7 @@ A step-by-step guide on how to integrate OneLogin Identity Provider with Amazon 
 Upload large number of files directly to Amazon S3 using AWS Amplify, with just a few lines of code.
 
 ---
-**Classify documents with Amazon Comprehend [video]**
+**Classify documents with Amazon Comprehend [[video](https://youtu.be/QsqHvDPRSSQ)]**
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=QsqHvDPRSSQ">
