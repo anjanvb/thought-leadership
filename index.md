@@ -21,6 +21,12 @@ Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications
 # Thought Leadership
 ## [Publications](#publications)
 
+[**Intelligent document processing with Amazon Textract, Amazon Bedrock, and LangChain**](https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain)
+![idp-genai](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/13/idp-llm-workflow.png)
+This article discusses how generative AI using Large Language Models with Amazon Bedrock can enhance and augment intelligent document processing. The article discusses how LangChain can be utilized to achieve tasks such as summarization, in-context Q&A, table self-querying, and structured data extractions from the most difficult kinds of documents.
+
+---
+
 [**Integrate Amazon SageMaker Data Wrangler with MLOps workflows**](https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/)
 ![mlops](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/19/ml-lifecycle.png)
 This article discusses the integration of Amazon SageMaker Data Wrangler with MLOps workflows to automate the end-to-end ML lifecycle, highlighting the simplification of data preparation processes for data scientists and ML engineers.
@@ -155,11 +161,11 @@ Click 👉🏽 [**here**](https://catalog.workshops.aws/intelligent-document-pro
 
 ### Learn About Amazon Textract
 
-Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, layout elements, and data from scanned documents. Take a free course on AWS Skill Builder on [Getting started with Amazon Textract](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14791/getting-started-with-amazon-textract)
+Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, layout elements, and data from scanned documents. Take a free course on AWS Skill Builder on [Getting started with Amazon Textract](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14791/getting-started-with-amazon-textract).
 
 ### Learn About Amazon Comprehend
 
-Amazon Comprehend uses natural language processing (NLP) to extract insights about the content of documents. Take a free course on AWS Skill Builder on [Getting started with Amazon Comprehend](https://explore.skillbuilder.aws/learn/course/external/view/elearning/15392/getting-started-with-amazon-comprehend)
+Amazon Comprehend uses natural language processing (NLP) to extract insights about the content of documents. Take a free course on AWS Skill Builder on [Getting started with Amazon Comprehend](https://explore.skillbuilder.aws/learn/course/external/view/elearning/15392/getting-started-with-amazon-comprehend).
 
 ### AWS Machine Learning University
 
