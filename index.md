@@ -130,6 +130,7 @@ Upload large number of files directly to Amazon S3 using AWS Amplify, with just 
 
 If you've got a bright idea about improving any of these open-source repositories, we welcome forks and pull requests. 👍
 
+- [Amazon Textract Layout Linearizer](https://github.com/aws-samples/amazon-textract-textractor/tree/master/prettyprinter#get-linearized-text-from-layout-using-get_text_from_layout_json-method)
 - [AWS AI IDP Human-in-Loop](https://github.com/aws-samples/aws-ai-idp-human-in-loop)
 - [AWS AI PHI Deidentification](https://github.com/aws-samples/aws-ai-phi-deidentification)
 - [Amazon Textract IDP CDK Constructs](https://github.com/aws-samples/amazon-textract-idp-cdk-constructs)
