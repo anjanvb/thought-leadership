@@ -153,6 +153,8 @@ If you've got a bright idea about improving any of these open-source repositorie
 
 ## Learn about AWS AI Services Intelligent Document Processing (IDP)
 
+Anjanava is the original creator of the **Intelligent Document Processing Workshop**, **Amazon Textract SkillBuilder** course, and **Amazon Comprehend SkillBuilder** course, all of which are free courses that includes hands-on exercises to sharpen your skills with AI and build AI powered applications.
+
 ### Intelligent Document Processing Workshop
 
 ![idp-arch-lab](https://static.us-east-1.prod.workshops.aws/public/36a4e11b-2b2b-450c-91c2-b16c5e0678c0/static/img/moduleimages/idp_arc_2.png)
