@@ -63,6 +63,12 @@ The article presents how IDP with AWS AI services automates and accelerates mort
 
 ---
 
+[**Amazon Comprehend document classifier adds layout support for higher accuracy**](https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-document-classifier-adds-layout-support-for-higher-accuracy/)
+![layout-support](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/18/ML-14200-Picture1.png)
+The ability to effectively handle and process enormous amounts of documents has become essential for enterprises in the modern world. Due to the continuous influx of information that all enterprises deal with, manually classifying documents is no longer a viable option. Document classification models can automate the procedure and help organizations save time and resources. Traditional categorization techniques, such as manual processing and keyword-based searches, become less efficient and more time-consuming as the volume of documents increases. This inefficiency causes lower productivity and higher operating expenses. Additionally, it can prevent crucial information from being accessible when needed, which could lead to a poor customer experience and impact decision-making. At AWS re:Invent 2022, Amazon Comprehend, a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text, launched support for native document types. This new feature gave you the ability to classify documents in native formats (PDF, TIFF, JPG, PNG, DOCX) using Amazon Comprehend.
+
+---
+
 [**Introducing One-Step Classification and Entity Recognition with Amazon Comprehend for Intelligent Document Processing**](https://aws.amazon.com/blogs/machine-learning/introducing-one-step-classification-and-entity-recognition-with-amazon-comprehend-for-intelligent-document-processing/)
 ![one-step](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2022/11/28/image001-12.png)
 This article introduces a one-step document classification and real-time analysis feature in Amazon Comprehend for IDP, simplifying the direct analysis of semi-structured documents in native formats without the need for pre-processing to extract text.
