@@ -161,6 +161,7 @@ If you've got a bright idea about improving any of these open-source repositorie
 - [AWS AI/ML Mega Modernization Week](https://pages.awscloud.com/NAMER-event-OE-ModWeekaiml-2022-reg-event.html) - Event Speaker - [Prevent online fraud while ensuring a frictionless customer experience](https://amer.resources.awscloud.com/aws-modernization-week-ai-ml/prevent-online-fraud-and-ensure-smooth-customer-experience)(video)
 - [DataScience on AWS](https://www.meetup.com/generative-ai-on-aws/events/289912372) - [Intelligent Document Processing with AWS AI Services and Generative AI](https://www.youtube.com/watch?v=lA0ICpoj1jM)(video)
 - Guest Speaker at [“ML On AWS“ event hosted by Data Science Club Univ. of Texas](https://www.linkedin.com/posts/av-amish-vyas_datascience-machinelearning-aws-activity-6972003782268248064-SsOr) - Machine Learning Lifecycle
+- [AWS re:Invent 2023](https://www.aboutamazon.com/news/aws/what-is-aws-reinvent) - Workshop Speaker - Intelligent Document Processing at Scale with Generative AI
 
 
 ## Learn about AWS AI Services Intelligent Document Processing (IDP)
