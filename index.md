@@ -14,6 +14,7 @@ Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications
   - [Public Speaking](#public-speaking)
   - [Learn about AWS AI Services Intelligent Document Processing (IDP)](#learn-about-aws-ai-services-intelligent-document-processing-idp)
     - [Intelligent Document Processing Workshop](#intelligent-document-processing-workshop)
+    - [Learn AI and Machine Learning](#learn-ai-and-machine-learning)
     - [Learn About Amazon Textract](#learn-about-amazon-textract)
     - [Learn About Amazon Comprehend](#learn-about-amazon-comprehend)
     - [AWS Machine Learning University](#aws-machine-learning-university)
@@ -161,6 +162,7 @@ If you've got a bright idea about improving any of these open-source repositorie
 - [AWS AI/ML Mega Modernization Week](https://pages.awscloud.com/NAMER-event-OE-ModWeekaiml-2022-reg-event.html) - Event Speaker - [Prevent online fraud while ensuring a frictionless customer experience](https://amer.resources.awscloud.com/aws-modernization-week-ai-ml/prevent-online-fraud-and-ensure-smooth-customer-experience)(video)
 - [DataScience on AWS](https://www.meetup.com/generative-ai-on-aws/events/289912372) - [Intelligent Document Processing with AWS AI Services and Generative AI](https://www.youtube.com/watch?v=lA0ICpoj1jM)(video)
 - Guest Speaker at [“ML On AWS“ event hosted by Data Science Club Univ. of Texas](https://www.linkedin.com/posts/av-amish-vyas_datascience-machinelearning-aws-activity-6972003782268248064-SsOr) - Machine Learning Lifecycle
+- [AWS re:Invent 2023](https://www.aboutamazon.com/news/aws/what-is-aws-reinvent) - Workshop Speaker - Intelligent Document Processing at Scale with Generative AI
 
 
 ## Learn about AWS AI Services Intelligent Document Processing (IDP)
@@ -173,6 +175,10 @@ Anjanava is the original creator of the **Intelligent Document Processing Worksh
 Learn about Intelligent Document Processing with AWS AI services where I break down all the things you need to know about AWS AI Services such as [Amazon Textract](https://aws.amazon.com/textract/), and [Amazon Comprehend](https://aws.amazon.com/comprehend/). I dive deeper into using generative AI using several Large Language Models to perform tasks such as document summarization, in-context document Q&A, self-querying tables, data format standardization, spell/grammar corrections of hand written or digital documents and more. 
 
 Click 👉🏽 [**here**](https://catalog.workshops.aws/intelligent-document-processing/en-US) to visit the workshop, and take the "[Self-paced](https://catalog.workshops.aws/intelligent-document-processing/en-US/01-introduction/03-self-paced)" lab.
+
+### Learn AI and Machine Learning
+
+[Machine Learning University](https://aws.amazon.com/machine-learning/mlu/). View my MLU submission, read the [paper](./assets/PA-PS-DME.pdf).
 
 ### Learn About Amazon Textract
 
