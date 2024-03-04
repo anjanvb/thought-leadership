@@ -14,7 +14,6 @@ Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications
   - [Public Speaking](#public-speaking)
   - [Learn about AWS AI Services Intelligent Document Processing (IDP)](#learn-about-aws-ai-services-intelligent-document-processing-idp)
     - [Intelligent Document Processing Workshop](#intelligent-document-processing-workshop)
-    - [Learn AI and Machine Learning](#learn-ai-and-machine-learning)
     - [Learn About Amazon Textract](#learn-about-amazon-textract)
     - [Learn About Amazon Comprehend](#learn-about-amazon-comprehend)
     - [AWS Machine Learning University](#aws-machine-learning-university)
@@ -176,10 +175,6 @@ Learn about Intelligent Document Processing with AWS AI services where I break d
 
 Click 👉🏽 [**here**](https://catalog.workshops.aws/intelligent-document-processing/en-US) to visit the workshop, and take the "[Self-paced](https://catalog.workshops.aws/intelligent-document-processing/en-US/01-introduction/03-self-paced)" lab.
 
-### Learn AI and Machine Learning 
-
-[Machine Learning University](https://aws.amazon.com/machine-learning/mlu/). View my MLU submission, read the [paper](./assets/PA-PS-DME.pdf).
-
 ### Learn About Amazon Textract
 
 Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, layout elements, and data from scanned documents. Take a free course on AWS Skill Builder on [Getting started with Amazon Textract](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14791/getting-started-with-amazon-textract).
@@ -190,4 +185,4 @@ Amazon Comprehend uses natural language processing (NLP) to extract insights abo
 
 ### AWS Machine Learning University
 
-Machine Learning University (MLU) provides anybody, anywhere, at any time access to the same machine learning courses used to train Amazon’s own developers on machine learning. Head over to [AWS Machine Learning University](https://aws.amazon.com/machine-learning/mlu/) and start learning today, or register for an online or in-person instructor-led class.
+Machine Learning University (MLU) provides anybody, anywhere, at any time access to the same machine learning courses used to train Amazon’s own developers on machine learning. Head over to [AWS Machine Learning University](https://aws.amazon.com/machine-learning/mlu/) and start learning today, or register for an online or in-person instructor-led class. View my MLU submission, read the [paper](./assets/PA-PS-DME.pdf).
