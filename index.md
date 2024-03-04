@@ -176,7 +176,7 @@ Learn about Intelligent Document Processing with AWS AI services where I break d
 
 Click 👉🏽 [**here**](https://catalog.workshops.aws/intelligent-document-processing/en-US) to visit the workshop, and take the "[Self-paced](https://catalog.workshops.aws/intelligent-document-processing/en-US/01-introduction/03-self-paced)" lab.
 
-### Learn AI and Machine Learning
+### Learn AI and Machine Learning 
 
 [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/). View my MLU submission, read the [paper](./assets/PA-PS-DME.pdf).
 
