@@ -6,6 +6,17 @@ As a Sr. AI Specialist Solutions Architect at Amazon Web Services (AWS), Anjan l
 
 Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications at Professional and Specialty levels. They have a solid background in cloud transformation and domain architecture, and work closely with stakeholders, project managers, developers, and focus groups to align strategy, processes, and IT assets with business goals. They are a technologist, an avid supporter, a researcher, and a contributor to open source projects. They are passionate about building the future of cloud computing with AI.
 
+## Featured in
+
+<table style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <td style="border: none;"><a href="https://www.digitaljournal.com/tech-science/how-the-public-sector-is-tackling-its-most-challenging-problems-with-ai/article"><img src="./assets/Digital-Journal-Logo.png.jpg" alt="Image 1"></a></td>
+        <td style="border: none;"><a href="https://www.entrepreneur.com/ka/business-news/battling-multi-billion-dollar-online-fraud-industry-with-ai/465795"><img src="./assets/Entrepreneur_Logo.png.jpg" alt="Image 2"></a></td>
+        <td style="border: none;"><a href="https://techbullion.com/generative-ai-the-next-big-thing-in-intelligent-document-processing-real-world-applications-from-an-ai-solutions-architect/"><img src="./assets/Tech_Bullion.png.jpg" alt="Image 3"></a></td>
+        <td style="border: none;"><a href="https://www.techtimes.com/articles/297735/20231019/how-to-ensure-trust-while-pushing-boundaries-in-generative-ai-ai-architect-anjanava-biswas-shares-insights.htm"><img src="./assets/Tech_Times.png.jpg" alt="Image 4"></a></td>
+    </tr>
+</table>
+
 ## Quick Links
 
 - [Thought Leadership](#thought-leadership)
