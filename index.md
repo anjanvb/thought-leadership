@@ -10,12 +10,12 @@ Anjan is a TOGAF® Level 2 Certified Professional and holds 7 AWS Certifications
 
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
-        <td style="border: none;"><a href="https://www.digitaljournal.com/tech-science/how-the-public-sector-is-tackling-its-most-challenging-problems-with-ai/article">
-          <img src="./assets/Digital-Journal-Logo.png" alt="Image 1"></a>
+        <td style="border: none;"><a href="https://www.digitaljournal.com/tech-science/how-the-public-sector-is-tackling-its-most-challenging-problems-with-ai/article" target="_blank">
+          <img src="./assets/Digital-Journal-Logo.png" alt="Image 1" style="width: 150px"></a>
         </td>
-        <td style="border: none;"><a href="https://www.entrepreneur.com/ka/business-news/battling-multi-billion-dollar-online-fraud-industry-with-ai/465795"><img src="./assets/Entrepreneur_Logo.png" alt="Image 2"></a></td>
-        <td style="border: none;"><a href="https://techbullion.com/generative-ai-the-next-big-thing-in-intelligent-document-processing-real-world-applications-from-an-ai-solutions-architect/"><img src="./assets/Tech_Bullion.png" alt="Image 3"></a></td>
-        <td style="border: none;"><a href="https://www.techtimes.com/articles/297735/20231019/how-to-ensure-trust-while-pushing-boundaries-in-generative-ai-ai-architect-anjanava-biswas-shares-insights.htm"><img src="./assets/Tech_Times.png" alt="Image 4"></a></td>
+        <td style="border: none;"><a href="https://www.entrepreneur.com/ka/business-news/battling-multi-billion-dollar-online-fraud-industry-with-ai/465795" target="_blank"><img src="./assets/Entrepreneur_Logo.png" alt="Image 2" style="width: 150px"></a></td>
+        <td style="border: none;"><a href="https://techbullion.com/generative-ai-the-next-big-thing-in-intelligent-document-processing-real-world-applications-from-an-ai-solutions-architect/" target="_blank"><img src="./assets/Tech_Bullion.png" alt="Image 3" style="width: 150px"></a></td>
+        <td style="border: none;"><a href="https://www.techtimes.com/articles/297735/20231019/how-to-ensure-trust-while-pushing-boundaries-in-generative-ai-ai-architect-anjanava-biswas-shares-insights.htm" target="_blank"><img src="./assets/Tech_Times.png" alt="Image 4" style="width: 150px"></a></td>
     </tr>
 </table>
 
